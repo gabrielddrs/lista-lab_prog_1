@@ -11,4 +11,5 @@ int main(){
 
     printf("O valor final à ser pago é de: R$ %.2f", valor_final);
 
+    return 0;
 };
