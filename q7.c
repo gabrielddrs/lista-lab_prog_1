@@ -9,4 +9,5 @@ int main(){
 
     printf("O valor ao quadrado é: %d", num*num);
 
+    return 0;
 };
