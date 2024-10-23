@@ -6,7 +6,7 @@ int main(){
     printf("Digite um número do tipo float:\n");
     scanf("%f", &num);
 
-    printf("E o seu número com 2 pontos flutuantes é: %.2f", num);
+    printf("E o seu número com 1 ponto flutuante é: %.1f", num);
 
     return 0;
 };
